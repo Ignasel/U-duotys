@@ -1,0 +1,17 @@
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 2em;
+}
+h2{
+	text-align: right;
+	font-size: 1.2em;
+	font-family: "Dancing Script";
+}
+article p{
+	text-align: justify;
+	font-family: "lobster";
+}
+footer p{
+	text-align: center;
+}
